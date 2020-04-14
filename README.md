@@ -27,7 +27,7 @@ Give examples
  - สำหรับผู้ดูแลระบบ(ส่วนกลาง) จะสามารถทำได้ทุกอย่างในระบบ ทั้ง
 
 
-![Tester](https://img.pngio.com/bus-png-images-free-download-png-buses-1772_1106.png)
+![Tester](http://img.pngio.com/bus-png-images-free-download-png-buses-1772_1106.png)
 
 ![IMAGES](https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/assets/ca5d12864c12916c05640b36e47ac5c9.png)
 
