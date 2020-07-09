@@ -16,7 +16,7 @@ Give examples
 ```
 
 ```diff
-* this text is highlighted in blue
+- this text is highlighted in blue
 - this text is highlighted in red
 ```
 
