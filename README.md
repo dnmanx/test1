@@ -8,8 +8,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-![#f03c15] What things you need to install the software and how to install them
-
+What things you need to install the software and how to install them
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
 ```
 Give examples
 ```
