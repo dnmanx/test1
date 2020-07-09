@@ -15,7 +15,10 @@ What things you need to install the software and how to install them
 Give examples
 ```
 
-https://lingtalfi.com/services/pngtext?color=cc0000&size=10&text=Hello%20World
+```diff
++ this text is highlighted in green
+- this text is highlighted in red
+```
 
 <div class="text-purple">
   This text is purple, <a href="#" class="text-inherit">including the link</a>
