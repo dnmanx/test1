@@ -16,13 +16,11 @@ Give examples
 ```
 
 ```diff
-+ this text is highlighted in blue
+* this text is highlighted in blue
 - this text is highlighted in red
 ```
 
-<div class="text-purple">
-  This text is purple, <a href="#" class="text-inherit">including the link</a>
-</div>
+ 
 ### การเข้าใช้งาน
 
 1. ไปที่ URL http://pwamoving.pwa.co.th:3000 
