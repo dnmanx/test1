@@ -2,7 +2,8 @@
 
 ระบบนี้คือระบบงานที่ทำการรวบรวมข้อมูลการใช้รถหน่วยงานบริการเคลื่อนที่ (PWA MOBILES) จากกปภ. สาขา และ กปภ.เขต
 
-<span style="color:red">TEST</span>
+<style>p{color:red;}</style>
+<p><em>foo</em></p>
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
