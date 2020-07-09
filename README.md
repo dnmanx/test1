@@ -10,13 +10,14 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 What things you need to install the software and how to install them
-<div class="text-blue mb-2">
-  .text-blue on white
-</div>
+ 
 ```
 Give examples
 ```
 
+<div class="text-purple">
+  This text is purple, <a href="#" class="text-inherit">including the link</a>
+</div>
 ### การเข้าใช้งาน
 
 1. ไปที่ URL http://pwamoving.pwa.co.th:3000 
