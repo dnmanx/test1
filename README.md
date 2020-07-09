@@ -9,7 +9,9 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 What things you need to install the software and how to install them
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
+<div class="text-blue mb-2">
+  .text-blue on white
+</div>
 ```
 Give examples
 ```
